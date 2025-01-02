@@ -13,7 +13,7 @@
 - **Feign Client**
 - **Gradle** (for build and dependency management)
 
-API Usage
-Endpoint: /v1/weather/{city}
-Method: GET
-Path Variable: city (Name of the city for which you want weather data)
+## API Usage
+- **Endpoint: /v1/weather/{city}**
+- **Method: GET**
+- **Path Variable: city (Name of the city for which you want weather data)**
